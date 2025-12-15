@@ -172,6 +172,10 @@ See file differences which are not yet staged
 ```
 git diff
 ```
+Is the primary command for checking the state of the working directory and the staging area. It shows exactly which changes are being tracked by Git and which are ready to be committed.
+```
+git status
+```
 
 ##### Analyzing files
 Allow to see information for repository objects
