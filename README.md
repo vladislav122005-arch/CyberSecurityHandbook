@@ -39,5 +39,5 @@ If you are new here, please refer to [the basic rules of contribution](https://g
 
 ### 👥 Credits
 
-Thanks to all the people who contribute.  
+Thanks to all the people who contribute. Don't forget to update this file along with the contribution :) 
 [**View List of Contributors**](CONTRIBUTORS.md)
