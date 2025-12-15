@@ -112,7 +112,6 @@ To create branch You should run
 
 ```
 git branch <name_branch>
-
 ```
 
 from the command line at the folder.
@@ -172,6 +171,8 @@ See file differences which are not yet staged
 ```
 git diff
 ```
+
+##### Reviewing history
 Is the primary command for checking the state of the working directory and the staging area. It shows exactly which changes are being tracked by Git and which are ready to be committed.
 ```
 git status
