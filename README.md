@@ -1,20 +1,43 @@
-﻿# CyberSecurityHandbook
-This repository is designed to cumulate information about IT and cyber security areas for respective specialists quick reference in time of need.
+﻿# 🛡️ CyberSecurityHandbook
 
-### Topics
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+![Language](https://img.shields.io/badge/Language-English-blue.svg?style=flat-square)
 
-[Git commands](/git/commands.md)
+> **Quick Reference for Specialists** > This repository is designed to accumulate information about IT and Cyber Security areas for respective specialists in time of need.
 
-[JavaScript patterns](/js/patterns.md)
+---
 
+## 📚 Topics
 
-### For contributors
+Here you can find quick references and cheat sheets:
 
-This repository was created first and foremost for cyber security specialists and as such it should:
-* contain "deep diving" materials of the subject
-* be respectful to the intellectual property - please, contribute materials, which are your own or you have right to redistribute (ones from open sources, for instance) 
-* be open for world's cyber security community - please, use English language for your contributions
+| Category | Topic | Description |
+| :---: | :--- | :--- |
+| 🐙 | **[Git Commands](/git/commands.md)** | Essential commands for version control. |
+| 💛 | **[JavaScript Patterns](/js/patterns.md)** | Code patterns and security snippets. |
 
-For those, who is new to GitHub, please refer to [the basic rules of contribution](https://github.com/firstcontributions/first-contributions)
+---
 
-[List of contributors](CONTRIBUTORS.md)
+## 🤝 For Contributors
+
+This repository was created first and foremost for **cyber security specialists**. As such, we aim to maintain high-quality standards.
+
+### Contribution Guidelines
+
+Please adhere to the following rules when contributing:
+
+-   **Deep Dive:** Materials should contain "deep diving" technical details of the subject.
+-   **Copyright:** Be respectful to intellectual property. Please contribute materials that are your own or that you have the right to redistribute (e.g., open sources).
+-   **Language:** Please use **English** for your contributions to keep the project open to the world's cyber security community.
+
+### New to GitHub?
+
+If you are new here, please refer to [the basic rules of contribution](https://github.com/firstcontributions/first-contributions).
+
+---
+
+### 👥 Credits
+
+Thanks to all the people who contribute.  
+[**View List of Contributors**](CONTRIBUTORS.md)
